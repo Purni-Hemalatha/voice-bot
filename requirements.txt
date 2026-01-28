@@ -1,0 +1,13 @@
+# Simple requirements without version conflicts
+flask
+python-dotenv
+requests
+speechrecognition
+pyttsx3
+flask-cors
+webrtcvad
+numpy
+pipwin
+
+# Install PyAudio separately after installing pipwin:
+# pipwin install pyaudio
